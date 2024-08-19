@@ -18,8 +18,6 @@ This project uses `yfinance` to fetch and analyze historical financial data for 
 
 ## Installation
 
-Install the necessary packages using:
-
-```bash
-pip install -r requirements.txt
-Usage
+1. Clone the repository:
+   ```bash
+   git clone <repository-url>
